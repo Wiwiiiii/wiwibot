@@ -47,7 +47,7 @@ bot.on('message', message =>{
 // BDD - Aide serveur RP
 bot.on('message', message =>{
 	if (message.content === "!commandes")
-		message.channel.send ("Les commandes disponnibles sont : "+
+		message.channel.send ("Ha, enfin une nouvelle personne, c'est que je m'ennuyais un peu moi à ne rien faire ... "+
 			
 			)
 })
